@@ -2,13 +2,13 @@
 
 |file|description|
 |---|---|
-|synthbird.wav               |Synthetic bird sample|
+|[synthbird.wav](https://github.com/microsoft/Forest_IR_synthesis/blob/main/examples/synthbird.wav)               |Synthetic bird sample|
 koliSummer_synthbird.wav     |Sample convolved with "Koli - Summer" measured IR [1]|
 spratt2008_synthbird.wav     |Sample convolved with synthetic IR by Spratt et al. [2]|
 stevens2017_synthbird.wav    |Sample convolved with synthetic IR by Stevens et al. [3]|
-proposed100k_synthbird.wav   |Sample convolved with synthetic IR generated with forest synthesis model for 100k trees|
-proposed200k_synthbird.wav   |Sample convolved with synthetic IR generated with forest synthesis model for 200k trees|
-proposed500k_synthbird.wav   |Sample convolved with synthetic IR generated with forest synthesis model for 500k trees|
+[proposed100k_synthbird.wav](https://github.com/microsoft/Forest_IR_synthesis/blob/main/examples/proposed100k_synthbird.wav)   |Sample convolved with synthetic IR generated with forest synthesis model for 100k trees|
+[proposed200k_synthbird.wav](https://github.com/microsoft/Forest_IR_synthesis/blob/main/examples/proposed200k_synthbird.wav)   |Sample convolved with synthetic IR generated with forest synthesis model for 200k trees|
+[proposed500k_synthbird.wav](https://github.com/microsoft/Forest_IR_synthesis/blob/main/examples/proposed500k_synthbird.wav)   |Sample convolved with synthetic IR generated with forest synthesis model for 500k trees|
 
 [1] "Koli national park – summer – Openair," https://openairlib.net/?page id=577.
 
