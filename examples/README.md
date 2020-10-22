@@ -2,7 +2,7 @@
 
 |file|description|
 |---|---|
-|[synthbird.wav](/synthbird.wav)               |Synthetic bird sample|
+|[synthbird.wav](/examples/synthbird.wav)               |Synthetic bird sample|
 koliSummer_synthbird.wav     |Sample convolved with "Koli - Summer" measured IR [1]|
 spratt2008_synthbird.wav     |Sample convolved with synthetic IR by Spratt et al. [2]|
 stevens2017_synthbird.wav    |Sample convolved with synthetic IR by Stevens et al. [3]|
