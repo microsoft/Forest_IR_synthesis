@@ -1,0 +1,8 @@
+Some of the sound examples in the "examples" folder were created using impulse responses downloaded from and attributed to https://www.openairlib.net/
+
+The samples and corresponding IRs:
+- koliSummer_synthbird.wav: generated using IRs from "Koli National Park – Summer" (https://www.openair.hosted.york.ac.uk/?page_id=577)
+- spratt2008_synthbird.wav: generated using IRs from "Waveguide Web Example Audio" (https://www.openair.hosted.york.ac.uk/?page_id=782)
+- stevens2017_synthbird.wav: generated using IRs from "Waveguide Web Example Audio" (https://www.openair.hosted.york.ac.uk/?page_id=782)
+
+All IRs are attributed to www.openairlib.net, and distributed under a Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/).
