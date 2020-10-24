@@ -3,9 +3,9 @@
 |file|description|
 |---|---|
 |[synthbird.wav](synthbird.wav)               |Synthetic bird sample|
-koliSummer_synthbird.wav     |Sample convolved with "Koli - Summer" measured IR [1]|
-spratt2008_synthbird.wav     |Sample convolved with synthetic IR by Spratt et al. [2], included in [4]|
-stevens2017_synthbird.wav    |Sample convolved with synthetic IR by Stevens et al. [3], included in [4]|
+[koliSummer_synthbird.wav](koliSummer_synthbird.wav)     |Sample convolved with "Koli - Summer" measured IR [1]|
+[spratt2008_synthbird.wav](spratt2008_synthbird.wav)     |Sample convolved with synthetic IR by Spratt et al. [2], included in [4]|
+[stevens2017_synthbird.wav](stevens2017_synthbird.wav)    |Sample convolved with synthetic IR by Stevens et al. [3], included in [4]|
 [proposed100k_synthbird.wav](proposed100k_synthbird.wav)   |Sample convolved with synthetic IR generated with forest synthesis model for 100k trees|
 [proposed200k_synthbird.wav](proposed200k_synthbird.wav)   |Sample convolved with synthetic IR generated with forest synthesis model for 200k trees|
 [proposed500k_synthbird.wav](proposed500k_synthbird.wav)   |Sample convolved with synthetic IR generated with forest synthesis model for 500k trees|
@@ -18,5 +18,5 @@ stevens2017_synthbird.wav    |Sample convolved with synthetic IR by Stevens et a
 
 [4] "Waveguide Web Example Audio," https://openairlib.net/?page_id=782
 
-######Third Party Notices:
+###### Third Party Notices:
 The IRs downloaded from OpenAIR are attributed to www.openairlib.net and licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (see "Third Party Notices.txt").
