@@ -18,5 +18,5 @@
 
 [4] "Waveguide Web Example Audio," https://openairlib.net/?page_id=782
 
-###### Third Party Notices:
+#### Third Party Notices:
 The IRs downloaded from OpenAIR are attributed to www.openairlib.net and licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (see "Third Party Notices.txt").
